@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![my GitHub state](https://github-readme-stats.vercel.app/api?username=polarisZhao)]()
+![](https://github-readme-stats-ws1mnpqtj.vercel.app/api/top-langs/?username=polarisZhao&hide=cuda,c%2B%2B&layout=compact&hide_border=true)
 
 <!--
 **polarisZhao/polarisZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
