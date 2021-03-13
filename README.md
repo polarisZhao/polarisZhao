@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi, I an polarisZhao. 👋
 
-<!--
-- :sparkles: Knowledge: Machine Learning, Deep Learning, Image and Signal Analysis, Time Series Forecasting and Acting Cute
-- :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading science fiction, Sleeping and Eating
-- :gift: Goal: Work at home as an independent AI developer accompanied by fresh bamboo
--->
+- :sparkles: Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis
+    - Face Recognition、Detection and Landmark
+    - Low-level Image Enhancement
+    - Neural Network Model Compression, Acceleration and Deployment
+- :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
 
 **Languages and Tools:**
 <table>
