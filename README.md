@@ -1,7 +1,7 @@
-### Hi, I an polarisZhao. 👋
+### Hi, I am polarisZhao. 👋
 
 - :sparkles: Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis
-    - Face Recognition、Detection and Landmark
+    - Face Detection、Recognition and Landmark
     - Low-level Image Enhancement
     - Neural Network Model Compression, Acceleration and Deployment
 - :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
