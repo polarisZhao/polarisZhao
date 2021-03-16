@@ -1,10 +1,11 @@
 ### Hi, I am polarisZhao. 👋
 
-- :sparkles: Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis
+- ⛳ Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis.
     - Face Detection、Recognition and Landmark
     - Low-level Image Enhancement
     - Neural Network Model Compression, Acceleration and Deployment
-- :heartbeat: Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
+- 🎨 Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
+- 🏞️ Travel & Places: Linyi, Qingdao, Beijing, WuHan, Tianjin
 
 **Languages and Tools:**
 <table>
