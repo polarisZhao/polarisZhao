@@ -5,7 +5,7 @@
     - 🔦  Low-level Image Enhancement
     - 🗜️  Neural Network Model Compression, Acceleration and Deployment
 - 🎨  Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
-- 🏞️  Travel & Places: Linyi, Qingdao, Beijing, WuHan, Tianjin
+- 🏞️  Travel & Places: Linyi, Qingdao, Beijing, Wuhan, Tianjin
 
 **Languages and Tools:**
 <table>
