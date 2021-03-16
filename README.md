@@ -1,9 +1,9 @@
-### Hi, I am polarisZhao. 👋
+### Hi, I am polarisZhao. Welcome.👋
 
 - ⛳ Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis.
-    - Face Detection、Recognition and Landmark
-    - Low-level Image Enhancement
-    - Neural Network Model Compression, Acceleration and Deployment
+    - 🙄 Face Detection、Recognition and Landmark
+    - 🔦 Low-level Image Enhancement
+    - 🗜️ Neural Network Model Compression, Acceleration and Deployment
 - 🎨 Enjoy: Solving problems skillfuly, Trying new things, Reading and Thinking. 
 - 🏞️ Travel & Places: Linyi, Qingdao, Beijing, WuHan, Tianjin
 
@@ -20,21 +20,5 @@
 </table>
 
 
-
 [![my GitHub state](https://github-readme-stats.vercel.app/api?username=polarisZhao)]()
 ![](https://github-readme-stats-ws1mnpqtj.vercel.app/api/top-langs/?username=polarisZhao&hide=cuda,c%2B%2B&layout=compact&hide_border=true)
-
-<!--
-**polarisZhao/polarisZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
