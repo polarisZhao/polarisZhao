@@ -1,6 +1,7 @@
 ### Hi, I am polarisZhao. Welcome.👋
 
 - ⛳  Knowledge: Deep Learning, Computer Vision, Image and Signal Analysis.
+    - 📃  OCR
     - 🙄  Face Detection、Recognition and Landmark
     - 🔦  Low-level Image Enhancement
     - 🗜️  Neural Network Model Compression, Acceleration and Deployment
